@@ -838,10 +838,10 @@ margin-bottom: 72px;
   text-decoration-line: underline;
 }
 
-.check-text {
+/* .check-text {
   display: flex;
   align-items: center;
-}
+} */
 
 .checkbox-check {
   display: inline-flex;
